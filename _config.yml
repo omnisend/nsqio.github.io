@@ -1,5 +1,5 @@
 source: .
 version: 0.3.8
 highlighter: pygments
-baseurl: ''
+baseurl: '/nsqio.github.io'
 markdown: kramdown
